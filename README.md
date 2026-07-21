@@ -81,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/AbhishekBhade/my-codeforces/tree/master/3499-maximize-active-section-with-trade-i) |
+## Linked List
+|  |
+| ------- |
+| [0328-odd-even-linked-list](https://github.com/AbhishekBhade/my-codeforces/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->
