@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/AbhishekBhade/my-codeforces/tree/master/0877-stone-game) |
 | [1288-remove-covered-intervals](https://github.com/AbhishekBhade/my-codeforces/tree/master/1288-remove-covered-intervals) |
 | [2029-stone-game-ix](https://github.com/AbhishekBhade/my-codeforces/tree/master/2029-stone-game-ix) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/AbhishekBhade/my-codeforces/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AbhishekBhade/my-codeforces/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/AbhishekBhade/my-codeforces/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AbhishekBhade/my-codeforces/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -154,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/AbhishekBhade/my-codeforces/tree/master/2029-stone-game-ix) |
+## Simulation
+|  |
+| ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/AbhishekBhade/my-codeforces/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
