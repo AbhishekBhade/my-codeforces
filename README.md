@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/AbhishekBhade/my-codeforces/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/AbhishekBhade/my-codeforces/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/AbhishekBhade/my-codeforces/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/AbhishekBhade/my-codeforces/tree/master/0485-max-consecutive-ones) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/AbhishekBhade/my-codeforces/tree/master/0136-single-number) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AbhishekBhade/my-codeforces/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/AbhishekBhade/my-codeforces/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/AbhishekBhade/my-codeforces/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
