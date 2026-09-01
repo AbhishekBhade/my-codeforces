@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AbhishekBhade/my-codeforces/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/AbhishekBhade/my-codeforces/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/AbhishekBhade/my-codeforces/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/AbhishekBhade/my-codeforces/tree/master/0283-move-zeroes) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AbhishekBhade/my-codeforces/tree/master/0001-two-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AbhishekBhade/my-codeforces/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AbhishekBhade/my-codeforces/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/AbhishekBhade/my-codeforces/tree/master/3532-path-existence-queries-in-a-graph-i) |
