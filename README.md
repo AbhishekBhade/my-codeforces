@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/AbhishekBhade/my-codeforces/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AbhishekBhade/my-codeforces/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/AbhishekBhade/my-codeforces/tree/master/0877-stone-game) |
 | [1288-remove-covered-intervals](https://github.com/AbhishekBhade/my-codeforces/tree/master/1288-remove-covered-intervals) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/AbhishekBhade/my-codeforces/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AbhishekBhade/my-codeforces/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/AbhishekBhade/my-codeforces/tree/master/0877-stone-game) |
 | [2029-stone-game-ix](https://github.com/AbhishekBhade/my-codeforces/tree/master/2029-stone-game-ix) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AbhishekBhade/my-codeforces/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0189-rotate-array](https://github.com/AbhishekBhade/my-codeforces/tree/master/0189-rotate-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AbhishekBhade/my-codeforces/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Dynamic Programming
 |  |
