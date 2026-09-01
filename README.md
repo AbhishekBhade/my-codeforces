@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AbhishekBhade/my-codeforces/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/AbhishekBhade/my-codeforces/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AbhishekBhade/my-codeforces/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/AbhishekBhade/my-codeforces/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/AbhishekBhade/my-codeforces/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Sorting
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AbhishekBhade/my-codeforces/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AbhishekBhade/my-codeforces/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/AbhishekBhade/my-codeforces/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/AbhishekBhade/my-codeforces/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Search
 |  |
 | ------- |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AbhishekBhade/my-codeforces/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/AbhishekBhade/my-codeforces/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/AbhishekBhade/my-codeforces/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Depth-First Search
 |  |
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/AbhishekBhade/my-codeforces/tree/master/0104-maximum-depth-of-binary-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/AbhishekBhade/my-codeforces/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/AbhishekBhade/my-codeforces/tree/master/3310-remove-methods-from-project) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/AbhishekBhade/my-codeforces/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Number Theory
 |  |
 | ------- |
@@ -163,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AbhishekBhade/my-codeforces/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Matrix
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/AbhishekBhade/my-codeforces/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 <!---LeetCode Topics End-->
