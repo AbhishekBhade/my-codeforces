@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/AbhishekBhade/my-codeforces/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/AbhishekBhade/my-codeforces/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/AbhishekBhade/my-codeforces/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/AbhishekBhade/my-codeforces/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/AbhishekBhade/my-codeforces/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AbhishekBhade/my-codeforces/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/AbhishekBhade/my-codeforces/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/AbhishekBhade/my-codeforces/tree/master/0704-binary-search) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/AbhishekBhade/my-codeforces/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AbhishekBhade/my-codeforces/tree/master/3534-path-existence-queries-in-a-graph-ii) |
